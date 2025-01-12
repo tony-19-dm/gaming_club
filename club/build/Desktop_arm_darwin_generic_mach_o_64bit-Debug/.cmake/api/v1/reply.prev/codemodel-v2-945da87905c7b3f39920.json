@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8cb7f287568106d3cb0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "club",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "club::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-club-Debug-c36b43e2c7c4b27d6086.json",
+					"name" : "club",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "club_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-club_autogen-Debug-fd503cadf4c22b9e5aae.json",
+					"name" : "club_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "club_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-club_autogen_timestamp_deps-Debug-db05ec555e4220f4c48e.json",
+					"name" : "club_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/antondmitriev/Desktop/Sibsutis/3 course/vp/club/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/antondmitriev/Desktop/Sibsutis/3 course/vp/club"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
